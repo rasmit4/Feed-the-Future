@@ -106,8 +106,9 @@ h1{
 
 .item2 {
     background-color: #1D3F74;
-    height: inherit;
-    width: inherit;
+    height: 100%;
+    padding-right: 50px;
+    
 }
 
 .item3 {
